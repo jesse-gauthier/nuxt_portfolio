@@ -1,3 +1,4 @@
+<!-- eslint-disable vue/html-self-closing -->
 <template>
 	<header class="py-6 blue-bg" role="banner">
 		<nav
@@ -40,21 +41,24 @@
 				<li class="mx-2 p-2 h-fit">
 					<router-link
 						to="/"
-						class="sub-heading-text text-lg font-medium hover-orange"
+						class="sub-heading-text text-xl font-medium btn-sm btn btn-neutral hover:bg-white hover:text-black"
+						active-class="btn btn-warning hover:text-black"
 						>Home</router-link
 					>
 				</li>
 				<li class="mx-2 p-2 h-fit">
 					<router-link
 						to="/projects"
-						class="sub-heading-text text-lg font-medium hover-orange"
+						class="sub-heading-text text-xl font-medium btn-sm btn btn-neutral hover:bg-white hover:text-black"
+						active-class="btn btn-warning hover:text-black"
 						>Projects</router-link
 					>
 				</li>
 				<li class="mx-2 p-2 h-fit">
 					<router-link
 						to="/contact"
-						class="sub-heading-text text-lg font-medium hover-orange"
+						class="sub-heading-text text-xl font-medium btn-sm btn btn-neutral hover:bg-white hover:text-black"
+						active-class="btn btn-warning hover:text-black"
 						>Contact</router-link
 					>
 				</li>
@@ -63,7 +67,8 @@
 						href="https://github.com/jesse-gauthier"
 						target="_blank"
 						rel="noopener noreferrer"
-						class="sub-heading-text text-lg font-medium hover-orange"
+						class="sub-heading-text text-xl font-medium btn-sm btn btn-neutral hover:bg-white hover:text-black"
+						active-class="btn btn-warning hover:text-black"
 						>GitHub</a
 					>
 				</li>
@@ -72,7 +77,7 @@
 						target="_blank"
 						rel="noopener noreferrer"
 						href="https://codepen.io/jessegauthier1994"
-						class="sub-heading-text text-lg font-medium hover-orange"
+						class="sub-heading-text text-xl font-medium btn btn-sm btn-neutral hover:bg-white hover:text-black"
 						>CodePen</a
 					>
 				</li>
@@ -81,7 +86,7 @@
 						target="_blank"
 						rel="noopener noreferrer"
 						href="https://www.linkedin.com/in/jesse-gauthier-475a25168/"
-						class="sub-heading-text text-lg font-medium hover-orange"
+						class="sub-heading-text text-xl font-medium btn btn-sm btn-neutral hover:bg-white hover:text-black"
 						>LinkedIn</a
 					>
 				</li>
@@ -106,7 +111,7 @@
 					</svg>
 				</button>
 				<ul class="text-center">
-					<li class="block p-4 text-lg font-medium hover-orange">
+					<li class="block p-4 text-xl font-medium hover-orange">
 						<router-link
 							class="btn bg-[#2b3d4f] text-white hover:bg-[#e89e1d] w-[100%]"
 							to="/"
@@ -114,7 +119,7 @@
 							>Home</router-link
 						>
 					</li>
-					<li class="block p-4 text-lg font-medium hover-orange">
+					<li class="block p-4 text-xl font-medium hover-orange">
 						<router-link
 							class="btn bg-[#2b3d4f] text-white hover:bg-[#e89e1d] w-[100%]"
 							to="/projects"
@@ -122,7 +127,7 @@
 							>Projects</router-link
 						>
 					</li>
-					<li class="block p-4 text-lg font-medium hover-orange">
+					<li class="block p-4 text-xl font-medium hover-orange">
 						<router-link
 							class="btn bg-[#2b3d4f] text-white hover:bg-[#e89e1d] w-[100%]"
 							to="/contact"
@@ -131,7 +136,7 @@
 						>
 					</li>
 
-					<li class="block p-4 text-lg font-medium hover-orange">
+					<li class="block p-4 text-xl font-medium hover-orange">
 						<a
 							class="btn bg-[#2b3d4f] text-white hover:bg-[#e89e1d] w-[100%]"
 							href="https://github.com/jesseagauthier"
@@ -139,7 +144,7 @@
 							>GitHub</a
 						>
 					</li>
-					<li class="block p-4 text-lg font-medium hover-orange">
+					<li class="block p-4 text-xl font-medium hover-orange">
 						<a
 							class="btn bg-[#2b3d4f] text-white hover:bg-[#e89e1d] w-[100%]"
 							href="https://codepen.io/jessegauthier1994"
@@ -147,7 +152,7 @@
 							>CodePen</a
 						>
 					</li>
-					<li class="block p-4 text-lg font-medium hover-orange">
+					<li class="block p-4 text-xl font-medium hover-orange">
 						<a
 							class="btn bg-[#2b3d4f] text-white hover:bg-[#e89e1d] w-[100%]"
 							href="https://www.linkedin.com/in/jesse-gauthier-475a25168/"

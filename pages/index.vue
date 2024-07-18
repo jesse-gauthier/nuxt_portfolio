@@ -18,7 +18,7 @@
 				</div>
 				<div
 					id="intro"
-					class="flex justify-center flex-col lg:col-span-2 h-[100%] gap-8 border-[#e89e1d] border-4 p-3"
+					class="flex justify-center flex-col lg:col-span-2 h-[100%] gap-8 border-[#e89e1d40] border-4 py-3 px-5"
 				>
 					<p class="text-black text-justify text-xl self-center">
 						<span class="font-semibold text-2xl mt-1 block"
@@ -31,7 +31,7 @@
 						languages and frameworks, including JavaScript, Vue.js, React,
 						MySQL, and PHP.
 					</p>
-					<div class="w-[100%] h-[3px] bg-[#e89e1d] rounded-full"></div>
+					<div class="w-[100%] h-[3px] bg-[#e89e1d40] rounded-full"></div>
 					<p class="text-black text-justify text-xl self-center">
 						Known for delivering client-focused solutions, enhancing user
 						experiences, and driving business growth through innovative web

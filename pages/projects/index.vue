@@ -7,12 +7,13 @@
 		data-aos="fade-up"
 		data-aos-duration="1000"
 	>
-		<h2 id="projects_heading" class="text-3xl font-bold mb-4">My Projects</h2>
+		<h2 id="projects_heading" class="text-4xl font-bold mb-7">My Projects</h2>
 		<div>
-			<p class="md:w-[60%] text-justify">
-				Welcome to My Portfolio! Below, you'll find a collection of the projects
-				I am most proud of. Each project showcases a variety of skills, ranging
-				from web design to development and everything in between.
+			<p class="md:w-[60%] text-justify text-lg">
+				Welcome to My Portfolio! Discover a showcase of my finest projects
+				below, each exemplifying a wide array of skills from web design to
+				development and beyond. Explore the work I'm most proud of and see the
+				expertise I bring to the table.
 			</p>
 			<div
 				class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 p-3 mt-2"

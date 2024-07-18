@@ -1,5 +1,5 @@
 <template>
-	<div class="flex flex-col gap-4 min-h-screen">
+	<div class="flex flex-col gap-4 min-h-screen mx-w-screen">
 		<MainHeader />
 		<div class="inner-wrapper">
 			<NuxtLayout>
@@ -11,14 +11,14 @@
 </template>
 
 <script setup>
-import { onMounted } from 'vue'
-import AOS from 'aos'
-import 'aos/dist/aos.css'
+// import { onMounted } from 'vue'
+// import AOS from 'aos'
+// import 'aos/dist/aos.css'
 
-onMounted(() => {
-	AOS.init({
-		duration: 3000,
-		once: true,
-	})
-})
+// onMounted(() => {
+// 	AOS.init({
+// 		duration: 0,
+// 		once: true,
+// 	})
+// })
 </script>
