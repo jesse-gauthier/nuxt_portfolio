@@ -18,6 +18,7 @@ import 'aos/dist/aos.css'
 onMounted(() => {
 	AOS.init({
 		duration: 3000,
+		once: true,
 	})
 })
 </script>
