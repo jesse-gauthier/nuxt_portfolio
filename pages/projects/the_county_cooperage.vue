@@ -103,3 +103,10 @@
 		</div>
 	</div>
 </template>
+
+<script setup>
+useSeoMeta({
+	title: 'The County Cooperage - Jesse Gauthier',
+	ogTitle: 'Jesse Gauthier',
+})
+</script>

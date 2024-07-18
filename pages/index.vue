@@ -474,3 +474,10 @@
 		</div>
 	</main>
 </template>
+
+<script setup>
+useSeoMeta({
+	title: 'Jesse Gauthier',
+	ogTitle: 'Jesse Gauthier',
+})
+</script>

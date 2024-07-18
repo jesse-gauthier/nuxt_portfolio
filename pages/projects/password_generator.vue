@@ -72,4 +72,9 @@
 	</div>
 </template>
 
-<script setup></script>
+<script setup>
+useSeoMeta({
+	title: 'Password Generator - Jesse Gauthier',
+	ogTitle: 'Jesse Gauthier',
+})
+</script>

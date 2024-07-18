@@ -85,3 +85,10 @@
 		</div>
 	</div>
 </template>
+
+<script setup>
+useSeoMeta({
+	title: 'Gotta-Go Ottawa - Jesse Gauthier',
+	ogTitle: 'Jesse Gauthier',
+})
+</script>

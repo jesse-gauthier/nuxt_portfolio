@@ -65,3 +65,9 @@
 		</div>
 	</section>
 </template>
+<script setup>
+useSeoMeta({
+	title: 'Projects',
+	ogTitle: 'Jesse Gauthier',
+})
+</script>

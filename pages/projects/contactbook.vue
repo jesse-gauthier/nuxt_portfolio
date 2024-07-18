@@ -87,4 +87,9 @@
 	</div>
 </template>
 
-<script setup></script>
+<script setup>
+useSeoMeta({
+	title: 'React Contact Book - Jesse Gauthier',
+	ogTitle: 'Jesse Gauthier',
+})
+</script>

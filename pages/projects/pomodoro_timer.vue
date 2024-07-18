@@ -72,5 +72,9 @@
 		</div>
 	</div>
 </template>
-
-<script setup></script>
+<script setup>
+useSeoMeta({
+	title: 'Pomodoro Timer - Jesse Gauthier',
+	ogTitle: 'Jesse Gauthier',
+})
+</script>
