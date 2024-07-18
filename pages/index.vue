@@ -91,28 +91,24 @@
 						<ul class="flex flex-wrap gap-4 text-lg text-gray-700">
 							<li
 								data-aos="fade-up"
-								data-aos-duration="3000"
 								class="bg-white p-2 rounded-md shadow-sm hover:bg-blue-100 transition duration-300"
 							>
 								JavaScript
 							</li>
 							<li
 								data-aos="fade-up"
-								data-aos-duration="3000"
 								class="bg-white p-2 rounded-md shadow-sm hover:bg-blue-100 transition duration-300"
 							>
 								PHP
 							</li>
 							<li
 								data-aos="fade-up"
-								data-aos-duration="3000"
 								class="bg-white p-2 rounded-md shadow-sm hover:bg-blue-100 transition duration-300"
 							>
 								HTML
 							</li>
 							<li
 								data-aos="fade-up"
-								data-aos-duration="3000"
 								class="bg-white p-2 rounded-md shadow-sm hover:bg-blue-100 transition duration-300"
 							>
 								CSS
@@ -124,63 +120,54 @@
 						<ul class="flex flex-wrap gap-4 text-lg text-gray-700">
 							<li
 								data-aos="fade-up"
-								data-aos-duration="3000"
 								class="bg-white p-2 rounded-md shadow-sm hover:bg-blue-100 transition duration-300"
 							>
 								Node.js
 							</li>
 							<li
 								data-aos="fade-up"
-								data-aos-duration="3000"
 								class="bg-white p-2 rounded-md shadow-sm hover:bg-blue-100 transition duration-300"
 							>
 								Node Express
 							</li>
 							<li
 								data-aos="fade-up"
-								data-aos-duration="3000"
 								class="bg-white p-2 rounded-md shadow-sm hover:bg-blue-100 transition duration-300"
 							>
 								Vue.js
 							</li>
 							<li
 								data-aos="fade-up"
-								data-aos-duration="3000"
 								class="bg-white p-2 rounded-md shadow-sm hover:bg-blue-100 transition duration-300"
 							>
 								React.js
 							</li>
 							<li
 								data-aos="fade-up"
-								data-aos-duration="3000"
 								class="bg-white p-2 rounded-md shadow-sm hover:bg-blue-100 transition duration-300"
 							>
 								SASS
 							</li>
 							<li
 								data-aos="fade-up"
-								data-aos-duration="3000"
 								class="bg-white p-2 rounded-md shadow-sm hover:bg-blue-100 transition duration-300"
 							>
 								Tailwind CSS
 							</li>
 							<li
 								data-aos="fade-up"
-								data-aos-duration="3000"
 								class="bg-white p-2 rounded-md shadow-sm hover:bg-blue-100 transition duration-300"
 							>
 								Bootstrap
 							</li>
 							<li
 								data-aos="fade-up"
-								data-aos-duration="3000"
 								class="bg-white p-2 rounded-md shadow-sm hover:bg-blue-100 transition duration-300"
 							>
 								Express.js
 							</li>
 							<li
 								data-aos="fade-up"
-								data-aos-duration="3000"
 								class="bg-white p-2 rounded-md shadow-sm hover:bg-blue-100 transition duration-300"
 							>
 								Nuxt.js
@@ -192,133 +179,114 @@
 						<ul class="flex flex-wrap gap-4 text-lg text-gray-700">
 							<li
 								data-aos="fade-up"
-								data-aos-duration="3000"
 								class="bg-white p-2 rounded-md shadow-sm hover:bg-blue-100 transition duration-300"
 							>
 								WordPress
 							</li>
 							<li
 								data-aos="fade-up"
-								data-aos-duration="3000"
 								class="bg-white p-2 rounded-md shadow-sm hover:bg-blue-100 transition duration-300"
 							>
 								Shopify
 							</li>
 							<li
 								data-aos="fade-up"
-								data-aos-duration="3000"
 								class="bg-white p-2 rounded-md shadow-sm hover:bg-blue-100 transition duration-300"
 							>
 								MySQL
 							</li>
 							<li
 								data-aos="fade-up"
-								data-aos-duration="3000"
 								class="bg-white p-2 rounded-md shadow-sm hover:bg-blue-100 transition duration-300"
 							>
 								MongoDB
 							</li>
 							<li
 								data-aos="fade-up"
-								data-aos-duration="3000"
 								class="bg-white p-2 rounded-md shadow-sm hover:bg-blue-100 transition duration-300"
 							>
 								Rest API
 							</li>
 							<li
 								data-aos="fade-up"
-								data-aos-duration="3000"
 								class="bg-white p-2 rounded-md shadow-sm hover:bg-blue-100 transition duration-300"
 							>
 								Git
 							</li>
 							<li
 								data-aos="fade-up"
-								data-aos-duration="3000"
 								class="bg-white p-2 rounded-md shadow-sm hover:bg-blue-100 transition duration-300"
 							>
 								Docker
 							</li>
 							<li
 								data-aos="fade-up"
-								data-aos-duration="3000"
 								class="bg-white p-2 rounded-md shadow-sm hover:bg-blue-100 transition duration-300"
 							>
 								Webpack
 							</li>
 							<li
 								data-aos="fade-up"
-								data-aos-duration="3000"
 								class="bg-white p-2 rounded-md shadow-sm hover:bg-blue-100 transition duration-300"
 							>
 								Google Cloud
 							</li>
 							<li
 								data-aos="fade-up"
-								data-aos-duration="3000"
 								class="bg-white p-2 rounded-md shadow-sm hover:bg-blue-100 transition duration-300"
 							>
 								Plesk
 							</li>
 							<li
 								data-aos="fade-up"
-								data-aos-duration="3000"
 								class="bg-white p-2 rounded-md shadow-sm hover:bg-blue-100 transition duration-300"
 							>
 								cPanel
 							</li>
 							<li
 								data-aos="fade-up"
-								data-aos-duration="3000"
 								class="bg-white p-2 rounded-md shadow-sm hover:bg-blue-100 transition duration-300"
 							>
 								OOP
 							</li>
 							<li
 								data-aos="fade-up"
-								data-aos-duration="3000"
 								class="bg-white p-2 rounded-md shadow-sm hover:bg-blue-100 transition duration-300"
 							>
 								GitHub
 							</li>
 							<li
 								data-aos="fade-up"
-								data-aos-duration="3000"
 								class="bg-white p-2 rounded-md shadow-sm hover:bg-blue-100 transition duration-300"
 							>
 								Strapi
 							</li>
 							<li
 								data-aos="fade-up"
-								data-aos-duration="3000"
 								class="bg-white p-2 rounded-md shadow-sm hover:bg-blue-100 transition duration-300"
 							>
 								WCAG
 							</li>
 							<li
 								data-aos="fade-up"
-								data-aos-duration="3000"
 								class="bg-white p-2 rounded-md shadow-sm hover:bg-blue-100 transition duration-300"
 							>
 								NPM
 							</li>
 							<li
 								data-aos="fade-up"
-								data-aos-duration="3000"
 								class="bg-white p-2 rounded-md shadow-sm hover:bg-blue-100 transition duration-300"
 							>
 								Gulp
 							</li>
 							<li
 								data-aos="fade-up"
-								data-aos-duration="3000"
 								class="bg-white p-2 rounded-md shadow-sm hover:bg-blue-100 transition duration-300"
 							>
 								Responsive Design
 							</li>
 							<li
 								data-aos="fade-up"
-								data-aos-duration="3000"
 								class="bg-white p-2 rounded-md shadow-sm hover:bg-blue-100 transition duration-300"
 							>
 								Agile Methodologies
@@ -338,17 +306,9 @@
 					Experience
 				</h2>
 				<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-4">
-					<article
-						data-aos="fade-up"
-						data-aos-duration="3000"
-						class="mb-6 flex"
-					>
+					<article data-aos="fade-up" class="mb-6 flex">
 						<div class="p-8 blue-bg rounded-lg">
-							<h3
-								class="text-3xl font-bold"
-								data-aos="fade-up"
-								data-aos-duration="3000"
-							>
+							<h3 class="text-3xl font-bold">
 								Senior Web Developer | Shopify Developer
 							</h3>
 							<p class="text-xl my-2 font-bold">The County Cooperage</p>
@@ -400,17 +360,9 @@
 							</div>
 						</div>
 					</article>
-					<article
-						data-aos="fade-up"
-						data-aos-duration="3000"
-						class="mb-6 flex"
-					>
+					<article data-aos="fade-up" class="mb-6 flex">
 						<div class="p-8 blue-bg rounded-lg">
-							<h3
-								class="text-3xl font-bold"
-								data-aos="fade-up"
-								data-aos-duration="3000"
-							>
+							<h3 class="text-3xl font-bold">
 								Wordpress Developer | UI Researcher
 							</h3>
 							<p class="text-xl my-2 font-bold">GottaGo Ottawa</p>

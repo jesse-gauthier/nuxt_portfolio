@@ -11,14 +11,20 @@
 </template>
 
 <script setup>
-// import { onMounted } from 'vue'
-// import AOS from 'aos'
-// import 'aos/dist/aos.css'
+import { onMounted } from 'vue'
+import AOS from 'aos'
+import 'aos/dist/aos.css'
 
-// onMounted(() => {
-// 	AOS.init({
-// 		duration: 0,
-// 		once: true,
-// 	})
-// })
+onMounted(() => {
+	const prefersReducedMotion = window.matchMedia(
+		'(prefers-reduced-motion: reduce)'
+	).matches
+
+	if (!prefersReducedMotion) {
+		AOS.init({
+			duration: 3000,
+			once: true,
+		})
+	}
+})
 </script>
