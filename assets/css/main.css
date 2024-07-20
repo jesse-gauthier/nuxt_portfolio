@@ -12,7 +12,9 @@ html {
 }
 
 body {
-	background-color: #e0ffff;
+	/* background-color: #e0ffff; */
+	background-color: #f0f5f5;
+
 	scroll-behavior: smooth;
 }
 

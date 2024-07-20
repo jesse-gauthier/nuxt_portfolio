@@ -4,24 +4,11 @@
 		data-aos="fade-up"
 		class="min-h-screen bg-gray-100 dark:bg-gray-900 text-gray-800 dark:text-gray-200 p-4 md:p-8"
 	>
-		<div class="flex justify-between">
-			<router-link class="btn btn-warning w-100" to="/projects"
-				>Back To Projects</router-link
-			>
-			<a
-				class="btn bg-[#2b3d4f] text-white hover:bg-[#e89e1d]"
-				href="https://contactbook.jessegauthier.dev/"
-				target="_blank"
-				>Live Version</a
-			>
-		</div>
+		<ProjectHeader liveVersionLink="https://contactbook.jessegauthier.dev/" />
 		<div class="bg-[#e0ffff] block h-[1px] my-8"></div>
 		<div class="max-w-4xl mx-auto">
 			<div class="flex flex-wrap flex-row-reverse justify-evenly">
-				<h2
-					data-aos-duration="3000"
-					class="text-3xl md:text-5xl font-bold mb-4 text-center self-center"
-				>
+				<h2 class="text-3xl md:text-5xl font-bold mb-4 text-center self-center">
 					React Contact Book
 				</h2>
 				<img
@@ -31,14 +18,14 @@
 				/>
 			</div>
 
-			<p class="text-base md:text-lg my-4">
+			<p class="text-base md:text-xl my-12 p-2">
 				The React Contact Book application showcases the powerful capabilities
 				of React, utilizing a custom Google FireStore Database for seamless data
 				storage. This project was entirely developed by me as an academic
 				assignment, where I achieved a perfect grade of 100%.
 			</p>
 
-			<div>
+			<div class="mt-12">
 				<h3 class="text-xl md:text-2xl font-semibold mb-2">App Features</h3>
 				<div class="md:flex justify-evenly gap-12">
 					<ul
@@ -88,6 +75,7 @@
 </template>
 
 <script setup>
+import ProjectHeader from '@/components/projects/ProjectHeader.vue'
 useSeoMeta({
 	title: 'React Contact Book - Jesse Gauthier',
 	ogTitle: 'Jesse Gauthier',

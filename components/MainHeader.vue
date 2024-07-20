@@ -90,6 +90,15 @@
 						>LinkedIn</a
 					>
 				</li>
+				<li class="mx-2 p-2 h-fit">
+					<a
+						target="_blank"
+						rel="noopener noreferrer"
+						href="https://www.linkedin.com/in/jesse-gauthier-475a25168/"
+						class="sub-heading-text text-xl font-medium btn btn-sm orange-bg hover:bg-white hover:text-black border-0"
+						>Hire Me</a
+					>
+				</li>
 			</ul>
 
 			<!-- Full-Screen Mobile Menu (Hidden by Default) -->

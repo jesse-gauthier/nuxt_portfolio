@@ -18,11 +18,11 @@
 				</div>
 				<div
 					id="intro"
-					class="flex justify-center flex-col lg:col-span-2 h-[100%] gap-8 border-[#e89e1d40] border-4 py-3 px-5"
+					class="flex justify-center flex-col lg:col-span-2 h-[100%] gap-8 border-[#2b3d4f40] border-4 py-3 px-5 rounded-lg"
 				>
 					<p class="text-black text-justify text-xl self-center">
 						<span class="font-semibold text-2xl mt-1 block"
-							>Hey, I'm Jesse.</span
+							>Hey, I'm <span class="orange-text">Jesse.</span></span
 						>
 						<br />
 						I'm a dynamic and detail-oriented Web Developer with progressive
@@ -31,7 +31,9 @@
 						languages and frameworks, including JavaScript, Vue.js, React,
 						MySQL, and PHP.
 					</p>
-					<div class="w-[100%] h-[3px] bg-[#e89e1d40] rounded-full"></div>
+					<div
+						class="w-[15%] h-[1.8px] bg-[#2b3d4f] rounded-full mx-auto"
+					></div>
 					<p class="text-black text-justify text-xl self-center">
 						Known for delivering client-focused solutions, enhancing user
 						experiences, and driving business growth through innovative web
@@ -65,7 +67,7 @@
 						class="p-8 blue-bg text-center w-full md:basis-1/2 flex flex-col justify-center rounded-lg"
 						data-aos="fade-up"
 					>
-						<p v-if="edu.honours" class="font-bold text-xl m-0">
+						<p v-if="edu.honours" class="font-bold text-xl m-0 orange-text">
 							Dean's List Recipient
 						</p>
 						<p v-else class="font-bold text-xl m-0">Part Time</p>
@@ -87,7 +89,9 @@
 				<h2 id="skills_heading" class="text-4xl font-bold mb-7">My Stack</h2>
 				<div class="flex flex-col gap-3 p-4 blue-bg rounded-lg shadow-md">
 					<div>
-						<h3 class="text-2xl font-bold my-3">Programming Languages</h3>
+						<h3 class="text-2xl font-bold my-3 orange-text">
+							Programming Languages
+						</h3>
 						<ul class="flex flex-wrap gap-4 text-lg text-gray-700">
 							<li
 								data-aos="fade-up"
@@ -116,7 +120,9 @@
 						</ul>
 					</div>
 					<div>
-						<h3 class="text-2xl font-bold my-3">Frameworks and Libraries</h3>
+						<h3 class="text-2xl font-bold my-3 orange-text">
+							Frameworks & Libraries
+						</h3>
 						<ul class="flex flex-wrap gap-4 text-lg text-gray-700">
 							<li
 								data-aos="fade-up"
@@ -175,7 +181,9 @@
 						</ul>
 					</div>
 					<div>
-						<h3 class="text-2xl font-bold my-3">Tools and Technologies</h3>
+						<h3 class="text-2xl font-bold my-3 orange-text">
+							Tools & Technologies
+						</h3>
 						<ul class="flex flex-wrap gap-4 text-lg text-gray-700">
 							<li
 								data-aos="fade-up"
@@ -308,7 +316,7 @@
 				<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-4">
 					<article data-aos="fade-up" class="mb-6 flex">
 						<div class="p-8 blue-bg rounded-lg">
-							<h3 class="text-3xl font-bold">
+							<h3 class="text-3xl font-bold orange-text">
 								Senior Web Developer | Shopify Developer
 							</h3>
 							<p class="text-xl my-2 font-bold">The County Cooperage</p>
@@ -327,8 +335,10 @@
 							</p>
 							<div>
 								<hr class="my-4" />
-								<h4 class="my-3 text-xl font-medium">Key Accomplishments:</h4>
-								<ul class="list-disc list-inside *:text-lg">
+								<h4 class="my-3 text-xl font-medium orange-text">
+									Key Accomplishments:
+								</h4>
+								<ul class="list-disc list-outside *:text-lg">
 									<li>
 										Integrated third-party libraries such as jQuery, React.js,
 										and Bootstrap to accelerate development time and enhance
@@ -362,7 +372,7 @@
 					</article>
 					<article data-aos="fade-up" class="mb-6 flex">
 						<div class="p-8 blue-bg rounded-lg">
-							<h3 class="text-3xl font-bold">
+							<h3 class="text-3xl font-bold orange-text">
 								Wordpress Developer | UI Researcher
 							</h3>
 							<p class="text-xl my-2 font-bold">GottaGo Ottawa</p>
@@ -382,8 +392,10 @@
 							</p>
 							<div>
 								<hr class="my-4" />
-								<h4 class="my-3 text-xl font-medium">Key Accomplishments:</h4>
-								<ul class="list-disc list-inside *:text-lg">
+								<h4 class="my-3 text-xl font-medium orange-text">
+									Key Accomplishments:
+								</h4>
+								<ul class="list-disc list-outside *:text-lg">
 									<li>
 										Led the UX/UI design process, from concept to high-fidelity
 										prototypes, enhancing usability and accessibility, and
